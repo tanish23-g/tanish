@@ -1,0 +1,29 @@
+<html>
+<head>
+<h1><font color="red"><align="center">Sahil Wadekar</align></h1>
+<h2>USN: CD24040</h2></font>
+</head>
+<body>
+<h3>1. Courses</h3>
+<ul>
+<li>HTML</li>
+<li>CSS</li>
+<li>JavaScript</li>
+</ul>
+<table>
+<table border="2" font color="green">
+<tr>
+<th><font color="red">Sr No.</font></th>
+<th>Name of Student</th>
+<th>USN no.</th>
+</tr>
+<tr>
+<td>1</td>
+<td>Sahil Wadekar</td>
+<td>CD24040</td>
+</tr></font>
+</table><br>
+
+<a href="https://github.com/">github</a>
+</body>
+</html>
