@@ -1,0 +1,9 @@
+<!DOCTYPY htm1>
+<html>
+<head>
+<title>My first page</title>
+</head>
+<boby>
+<h1>My name is Tanish</h1>
+</boby>
+</html>
