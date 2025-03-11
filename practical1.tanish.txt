@@ -1,7 +1,7 @@
 <html>
 <head>
-<h1><font color="red"><align="center">Sahil Wadekar</align></h1>
-<h2>USN: CD24040</h2></font>
+<h1><font color="red"><align="center">Tanish ghormare</align></h1>
+<h2>USN: CD24056</h2></font>
 </head>
 <body>
 <h3>1. Courses</h3>
@@ -19,8 +19,8 @@
 </tr>
 <tr>
 <td>1</td>
-<td>Sahil Wadekar</td>
-<td>CD24040</td>
+<td>Tanish Ghormmare</td>
+<td>CD24056</td>
 </tr></font>
 </table><br>
 
