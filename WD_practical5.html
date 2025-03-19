@@ -1,0 +1,72 @@
+<html>
+    <head>
+        <title>Scholarship Registration Form</title>
+    </head>
+ </html>
+ <body>
+    <h1>Scholarship Registration Form</h1>
+ </body>
+ <form>
+    <feildset>
+        <legend>
+            <h3>User personal Information</h3></legend>
+            <lable for="name">Enter Your Full Name:</lable>
+            <input type="text" id="name" name="name" required/><br>  
+
+            <label for="email">Enter Your Email:</label>
+            <input typr="email" id="email" name="email" required/><br>
+
+            <label for="password">Enter Your Password:</label>
+            <input typr="password" id="password" name="pass" required/><br>
+
+            <label for="confirmPassowrd">Confirm Your Password:</label>
+            <input typr="password" id="confirmPassowrd" name="confirmPass" required/><br>
+
+            <label>Select Your Gender:</label>
+            <div class="gender-group">
+                <input type="radio" name="gender" value="male" id="male" required/>
+                <label for="male">Male</label>
+                <input type="radio" name="gender" value="female" id="female"/>
+                <label for="female">Female</label>
+                <input type="radio" name="gender" value="others" id="other"/>
+                <label for="others">Other</label>
+            </div><br>
+
+            <label for="dob">Enter Your Date Of Birth:</label>
+            <input type="date" id="dob" name="dob" required/><br>
+
+            <label for="address">Enter Your Address:</label>
+            <textarea id="address" name="address" required></textarea><br>
+
+            <label for="phone">Phone Number:</label>
+            <input type="tel" id="phone" name="phone" required><br>
+
+            <label for="education">Current Education Level:</label>
+            <select id="education" name="education" required>
+                <option value="">Select</option>
+                <option value="highschool">High School</option>
+                <option value="undergraduate">Undergraduate</option>
+                <option value="postgraduate">Postgraduate</option>
+            </select><br>
+
+            <label for="transcript">Upload SSC Marksheet (PDF only):</label>
+            <input type="file" id="transcript" name="transcript" accept=".pdf" required><br>
+
+            <label for="id_proof">Upload HSC Marksheet (PDF only):</label>
+            <input type="file" id="id_proof" name="id_proof" accept=".jpg, .jpeg, .png, .pdf" required><br>
+
+            <label for="recommendation">Upload Cast Certificate (PDF only):</label>
+            <input type="file" id="recommendation" name="recommendation" accept=".pdf" required><br>
+            
+            <label for="recommendation">Upload Adharr Certificate (PDF only):</label>
+            <input type="file" id="recommendation" name="recommendation" accept=".pdf" required><br>
+
+            <label for="recommendation">Upload Income Certificate (PDF only):</label>
+            <input type="file" id="recommendation" name="recommendation" accept=".pdf" required><br>
+
+            <label for="essay">Why do you deserve this scholarship? (Max 500 words):</label>
+            <textarea id="essay" name="essay" rows="5" required></textarea><br>
+
+            <input type="submit" value="submit"/>
+    </feildset>
+ </form>
